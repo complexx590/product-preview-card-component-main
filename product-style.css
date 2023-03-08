@@ -121,7 +121,7 @@ body{
     border-radius: 1em 0 0 1em;
 }
 
-@media (max-width:580px) {
+@media (max-width:450px) {
 
     body{
        margin: 2rem 5rem 2rem;
